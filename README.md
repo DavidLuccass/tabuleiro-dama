@@ -15,3 +15,7 @@
 
 - ⛂ DANIEL
 - ⛀ Peça branca Lucas
+
+## Peças a menos 
+DANIEL 1
+LUCAS 
