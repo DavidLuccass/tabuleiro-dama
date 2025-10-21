@@ -14,4 +14,4 @@
 **Jogadores**
 
 - ⛂ DANIEL
-- ⛀ Peça branca
+- ⛀ Peça branca Lucas
