@@ -21,5 +21,5 @@ DANIEL 10
 LUCAS 3
 
 ## Reis 
-Daniel 0 
+Daniel 1
 Lucas 3
