@@ -13,5 +13,5 @@
 
 **Jogadores**
 
-- ⛂ Peça preta
+- ⛂ DANIEL
 - ⛀ Peça branca
