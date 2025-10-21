@@ -18,4 +18,4 @@
 
 ## Peças a menos 
 DANIEL 2
-LUCAS 1
+LUCAS 2
