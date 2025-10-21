@@ -11,6 +11,10 @@
 | 2 |   |  |   |  |   |  |   |  |
 | 1 | ⛀ |   | ⛀ |   |  |  |  |   |
 
+
+## VENCEDOR 
+LUCAS @DavidLuccass
+
 **Jogadores**
 
 - ⛂ DANIEL
